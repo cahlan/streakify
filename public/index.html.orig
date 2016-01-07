@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1>Hello, world!</h1>
+<h2>Tagline goes here</h2>
+<<<<<<< HEAD
+<footer></footer>
+=======
+<p>Something goes here</p>
+>>>>>>> master
+</body>
+</html>

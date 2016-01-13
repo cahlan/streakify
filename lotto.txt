@@ -1,6 +1,6 @@
 12, 14, 16, 44, 57, 92
 33,12,55,45,22, 1
-//ruh roh changed
+//neither one was good
 
 
 33,12,55,45,22, 1
